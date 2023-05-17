@@ -2,7 +2,7 @@
 [![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/main/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
 
 
-# devopsdays-web
+# devopsdays-web_
 
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
